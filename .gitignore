@@ -1,0 +1,8 @@
+.idea/*
+*.pyc
+main.sh
+venv/*
+dependencies/*
+assets/*
+!assets/test/*.wav
+!assets/test/*.mid
