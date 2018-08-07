@@ -50,6 +50,7 @@ python setup.py install
 * Download [Melodia plugin](http://mtg.upf.edu/technologies/melodia) and copy all files to */usr/local/lib/vamp*
 * Audio tools
 ```bash
+pip install pydub
 apt-get install ffmpeg bpm-tools
 apt-get install timidity timidity-interfaces-extra
 ```
